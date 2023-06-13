@@ -7,7 +7,7 @@
         <div>
             <h1 class="text-lg font-bold font-serif italic">Mysore Palace</h1>
             <p class="text-base font-serif">If there was just one symbol to represent all of India, it would be the Mysore Palace</p>
-            <NuxtLink>
+            <NuxtLink to="/places/details/mysoreDetails">
                 <button class="btn mt-2 p-2"> See Details</button>
             </NuxtLink>
         </div>
