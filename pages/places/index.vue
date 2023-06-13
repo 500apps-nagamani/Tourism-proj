@@ -6,6 +6,7 @@
         <Tajmahal />
      
         <MysorePalace />
+       
     </div>
 </template>
 

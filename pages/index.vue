@@ -1,7 +1,7 @@
 
 
 <template>
-    <div class="main flex flex-col pb-1 justify-end">
+    <div class="main flex flex-col justify-end">
 
         
         <div class="bg-white p-3 rounded-md">
@@ -10,13 +10,14 @@
             <NuxtLink to="/places">
                 <button class="btn mt-4">Get started</button>
             </NuxtLink>
+            
         </div>
+        
     </div>
 </template>
 
 
 <script setup>
-
 
 
 
@@ -26,7 +27,7 @@
 <style scoped>
 .main{
     background-image: url("https://images.theconversation.com/files/295442/original/file-20191003-52796-1763ajl.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=900.0&fit=crop");
-    height : 100vh;
+    height : 90vh;
     background-size: cover;
 }
 </style>
